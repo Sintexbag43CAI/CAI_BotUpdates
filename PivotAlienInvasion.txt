@@ -1,0 +1,10 @@
+# Update 1.0.
+Date: 19 - 12 - 24
+Update logs:
+- Bot has been created
+- Bot has been published
+
+# Update 1.1.
+Date: 19 - 12 - 24
+Update logs:
+- Definition has been updated to contain rules to lessen the probability of OOC
